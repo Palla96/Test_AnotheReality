@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Test_AnotheReality/Library/ShaderCache/
+Test_AnotheReality/Library/PackageCache/
+Test_AnotheReality/Library/Artifacts/
+Test_AnotheReality/Library/PackageCache/
