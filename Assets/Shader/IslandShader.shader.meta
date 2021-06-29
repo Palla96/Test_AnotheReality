@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8ad870ed0dafa0f4a8edd97b68a27a8e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Island_DefaultOBJ_Normal: {fileID: 2800000, guid: 2b3bed8724f8036499a5aebc370492d6,
+      type: 3}
+  - _Dirt_texture: {fileID: 2800000, guid: 880d3c07d28e95a439b2029237ce0804, type: 3}
+  - _Grass_texture: {fileID: 2800000, guid: 2adc3e2d11f845d49b5d866ca5e49a04, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

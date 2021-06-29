@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Props_mat
+    second: {fileID: 2100000, guid: b15d2f28ce2792a4ba0a4e4ddddea9d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: TrimWood_mat
     second: {fileID: 2100000, guid: 897aedbb7d41f0541810d9a13f8a13c8, type: 2}
   materials:
