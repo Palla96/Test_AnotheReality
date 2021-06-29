@@ -3,7 +3,12 @@ guid: be997cc83c8a28e44946cf25f03f2846
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrimWood_mat
+    second: {fileID: 2100000, guid: 897aedbb7d41f0541810d9a13f8a13c8, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
