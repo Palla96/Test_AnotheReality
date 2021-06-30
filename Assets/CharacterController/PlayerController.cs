@@ -46,7 +46,6 @@ public class PlayerController : MonoBehaviour
         Vector3 move = new Vector3(movementInput.x, 0f, movementInput.y);
         controller.Move(move * Time.deltaTime);
         controller.Move(move * Time.deltaTime * playerSpeed);
-        Debug.Log(gameObject.transform.position);
         if (movementInput != Vector2.zero)
         {
             
