@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: be997cc83c8a28e44946cf25f03f2846
+guid: ed12f5f6c4ea3664a9475b83bdba5161
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -7,13 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Props_mat
-    second: {fileID: 2100000, guid: b15d2f28ce2792a4ba0a4e4ddddea9d7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: TrimWood_mat
-    second: {fileID: 2100000, guid: 897aedbb7d41f0541810d9a13f8a13c8, type: 2}
+      name: No Name
+    second: {fileID: 2100000, guid: 9bfe336f7df43df48be13d38a7bfaca7, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -46,7 +41,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 1
@@ -79,7 +74,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 1
+  importAnimation: 0
   humanDescription:
     serializedVersion: 3
     human: []
